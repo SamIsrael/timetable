@@ -15,7 +15,7 @@ Execute the program
 
 # CODE
 
-```
+```html
 <!DOCTYPE html>
 <html lang="">
 
@@ -130,6 +130,10 @@ Execute the program
 
 </html>
 ```
+<br>
+<br>
+<br>
+
 
 # OUPUT
 ![image](./tab.png)
