@@ -138,3 +138,6 @@ Execute the program
 # OUPUT
 ![image](./tab.png)
 ![image](./val.png)
+
+# Result
+Thus, a html webpage page to display your timetable is designed successfully.
